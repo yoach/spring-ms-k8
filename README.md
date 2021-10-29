@@ -12,12 +12,12 @@ basic spring ms example with k8 deploy
 
  
 ## Getting Started
-1.pull spring ms-k8 sample to your local mechine.
+1.Pull spring ms-k8 sample to your local mechine.
 
-2.docker build -t spring-boot-ms-docker . -->dockerfile build image
+2.Dockerfile build image -- > docker build -t spring-boot-ms-docker .
 
-3.docker run -p 8080:8080 spring-boot-ms-docker
+3.Run docker local --> docker run -p 8080:8080 spring-boot-ms-docker
 
-4.docker login -u *****-p ***** docker.io
+4.dockerhub login -->  docker login -u *****-p ***** docker.io
 
 5.
