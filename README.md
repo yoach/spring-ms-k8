@@ -18,6 +18,6 @@ basic spring ms example with k8 deploy
 
 3.Run docker local --> docker run -p 8080:8080 spring-boot-ms-docker
 
-4.dockerhub login -->  docker login -u *****-p ***** docker.io
+4.Dockerhub login -->  docker login -u *****-p ***** docker.io
 
 5.
