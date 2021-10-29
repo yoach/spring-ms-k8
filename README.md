@@ -1,4 +1,4 @@
-# spring-ms-k8
+# Spring-MS-k8
 Basic spring ms example  with k8 deploy
 
 ![alt text](https://kubernetes.io/images/favicon.png)
