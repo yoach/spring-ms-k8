@@ -29,7 +29,11 @@ basic spring ms example with k8 deploy
 
 ### minikube Deploy image 
 1.Run minikube https://kubernetes.io/docs/tutorials/hello-minikube
+
 2.minikube dashboard
+
 3.Create deployment  -- > kubectl create deployment example-spring-boot-ms-docker  --image=yoachpi/example-spring-boot-ms-docker
+
 4.Create service -- > kubectl expose deployment example-spring-boot-ms-docker --type=LoadBalancer --port=8080
+
 
