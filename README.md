@@ -1,6 +1,9 @@
 # spring-ms-k8
 basic spring ms example with k8 deploy
 
+![alt text](https://jarchitects.be/wp-content/uploads/2021/07/springframework.png)
+
+
 ## Requirements
 
 * [java 11](https://www.oracle.com/java/technologies/javase/jdk11-archive-downloads.html)
