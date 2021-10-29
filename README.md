@@ -15,7 +15,9 @@ basic spring ms example with k8 deploy
  
 ## Getting Started
 
+### Gitub
 1.Pull spring ms-k8 sample to your local mechine.
+2.run code and check it by enter browser
 
 ### Preper Docker Image
 
