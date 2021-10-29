@@ -36,6 +36,6 @@ basic spring ms example with k8 deploy
 
 4.Create service -- > kubectl expose deployment example-spring-boot-ms-docker --type=LoadBalancer --port=8080
 
-5.kubectl get services
+5.Connect using external port  -- >  kubectl get services 
 
 
